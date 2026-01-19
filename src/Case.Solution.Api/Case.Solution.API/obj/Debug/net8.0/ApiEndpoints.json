@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Case.Solution.API.Controllers.PeopleController",
+    "Method": "GetAll",
+    "RelativePath": "api/People",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Case.Solution.API.Controllers.PeopleController",
+    "Method": "Create",
+    "RelativePath": "api/People",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Case.Solution.Application.DTOs.CreatePersonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Case.Solution.API.Controllers.PeopleController",
+    "Method": "Get",
+    "RelativePath": "api/People/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Case.Solution.API.Controllers.PeopleController",
+    "Method": "Update",
+    "RelativePath": "api/People/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Case.Solution.Application.DTOs.CreatePersonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Case.Solution.API.Controllers.PeopleController",
+    "Method": "Delete",
+    "RelativePath": "api/People/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

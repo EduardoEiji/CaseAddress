@@ -1,0 +1,11 @@
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\bin\Debug\net8.0\CaseSolution.Core.deps.json
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\bin\Debug\net8.0\CaseSolution.Core.dll
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\bin\Debug\net8.0\CaseSolution.Core.pdb
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.AssemblyInfoInputs.cache
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.AssemblyInfo.cs
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.csproj.CoreCompileInputs.cache
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.dll
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\refint\CaseSolution.Core.dll
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.pdb
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\ref\CaseSolution.Core.dll
