@@ -3,60 +3,68 @@
   "WorkspaceRootPath": "C:\\MySpace\\Case.Solution.GFTPan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.infrastructure\\scriptssql\\createtables.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|solutionrelative:src\\case.solution.infrastructure\\scriptssql\\createtables.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|solutionrelative:src\\case.solution.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.infrastructure\\data\\persondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|solutionrelative:src\\case.solution.infrastructure\\data\\persondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.infrastructure\\case.solution.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|solutionrelative:src\\case.solution.infrastructure\\case.solution.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2407EA45-CB21-493B-90B8-08C493BE833A}|src\\Case.Solution.Api\\Case.Solution.API\\Case.Solution.API.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.api\\case.solution.api\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2407EA45-CB21-493B-90B8-08C493BE833A}|src\\Case.Solution.Api\\Case.Solution.API\\Case.Solution.API.csproj|solutionrelative:src\\case.solution.api\\case.solution.api\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\ports\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\ports\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\ports\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\ports\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\entities\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\entities\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\dtos\\createpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\dtos\\createpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|solutionrelative:src\\case.solution.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\dtos\\createaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\dtos\\createaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\dtos\\createpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\dtos\\createpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\casesolution.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\casesolution.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\ports\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\ports\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2407EA45-CB21-493B-90B8-08C493BE833A}|src\\Case.Solution.Api\\Case.Solution.API\\Case.Solution.API.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.api\\case.solution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,20 +75,16 @@
       "RelativeMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|solutionrelative:src\\case.solution.infrastructure\\services\\viacepservice;.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\casesolution.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\casesolution.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.infrastructure\\case.solution.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|solutionrelative:src\\case.solution.infrastructure\\case.solution.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\case.solution.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\case.solution.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.infrastructure\\services\\interface\\iviacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11840B53-E238-4A38-A89C-6A0FCD501688}|src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj|solutionrelative:src\\case.solution.infrastructure\\services\\interface\\iviacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.application\\interfaces\\iviacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184CEFF5-9623-4E73-95BC-61D1584BD36D}|src\\Case.Solution.Application\\Case.Solution.Application.csproj|solutionrelative:src\\case.solution.application\\interfaces\\iviacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|c:\\myspace\\case.solution.gftpan\\src\\casesolution.core\\ports\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53D06B-BBDA-433E-92E3-D964F37B1BF2}|src\\CaseSolution.Core\\CaseSolution.Core.csproj|solutionrelative:src\\casesolution.core\\ports\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2407EA45-CB21-493B-90B8-08C493BE833A}|src\\Case.Solution.Api\\Case.Solution.API\\Case.Solution.API.csproj|c:\\myspace\\case.solution.gftpan\\src\\case.solution.api\\case.solution.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -98,154 +102,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\Address.cs",
-              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Entities\\Address.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\Address.cs",
-              "RelativeToolTip": "src\\CaseSolution.Core\\Entities\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T00:28:27.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPersonRepository.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Ports\\IPersonRepository.cs",
-              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Ports\\IPersonRepository.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Ports\\IPersonRepository.cs",
-              "RelativeToolTip": "src\\CaseSolution.Core\\Ports\\IPersonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T02:14:20.773Z",
+              "DocumentIndex": 0,
+              "Title": "CreateTables.txt",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\ScriptsSQL\\CreateTables.txt",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Infrastructure\\ScriptsSQL\\CreateTables.txt",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\ScriptsSQL\\CreateTables.txt",
+              "RelativeToolTip": "src\\Case.Solution.Infrastructure\\ScriptsSQL\\CreateTables.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-21T18:23:47.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PersonRepository.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Repositories\\PersonRepository.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Infrastructure\\Repositories\\PersonRepository.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Repositories\\PersonRepository.cs",
-              "RelativeToolTip": "src\\Case.Solution.Infrastructure\\Repositories\\PersonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:29:30.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonDbContext.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Data\\PersonDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Infrastructure\\Data\\PersonDbContext.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Data\\PersonDbContext.cs",
-              "RelativeToolTip": "src\\Case.Solution.Infrastructure\\Data\\PersonDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:24:30.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddressService.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Services\\AddressService.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\Services\\AddressService.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Services\\AddressService.cs",
-              "RelativeToolTip": "src\\Case.Solution.Application\\Services\\AddressService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T23:18:38.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Services\\PersonService.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\Services\\PersonService.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Services\\PersonService.cs",
-              "RelativeToolTip": "src\\Case.Solution.Application\\Services\\PersonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T02:10:21.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\Person.cs",
-              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Entities\\Person.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\Person.cs",
-              "RelativeToolTip": "src\\CaseSolution.Core\\Entities\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T01:54:21.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Api\\Case.Solution.API\\Program.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\Program.cs",
-              "RelativeToolTip": "src\\Case.Solution.Api\\Case.Solution.API\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:42:02.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateAddressDto.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\CreateAddressDto.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\DTOs\\CreateAddressDto.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\CreateAddressDto.cs",
-              "RelativeToolTip": "src\\Case.Solution.Application\\DTOs\\CreateAddressDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:52:51.225Z",
+              "Title": "Case.Solution.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T18:16:54.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IAddressRepository.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Ports\\IAddressRepository.cs",
-              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Ports\\IAddressRepository.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Ports\\IAddressRepository.cs",
-              "RelativeToolTip": "src\\CaseSolution.Core\\Ports\\IAddressRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAZAAAAAAAAAA==",
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\AddressDto.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\DTOs\\AddressDto.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\AddressDto.cs",
+              "RelativeToolTip": "src\\Case.Solution.Application\\DTOs\\AddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T23:19:35.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T16:46:40.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PessoaFisica.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\PessoaFisica.cs",
-              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Entities\\PessoaFisica.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\PessoaFisica.cs",
-              "RelativeToolTip": "src\\CaseSolution.Core\\Entities\\PessoaFisica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Services\\AddressService.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\Services\\AddressService.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Services\\AddressService.cs",
+              "RelativeToolTip": "src\\Case.Solution.Application\\Services\\AddressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T01:55:49.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T23:18:38.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "CaseSolution.Core.csproj",
               "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\CaseSolution.Core.csproj",
               "RelativeDocumentMoniker": "src\\CaseSolution.Core\\CaseSolution.Core.csproj",
@@ -253,25 +164,203 @@
               "RelativeToolTip": "src\\CaseSolution.Core\\CaseSolution.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-17T01:53:27.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T01:53:27.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAddressRepository.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Ports\\IAddressRepository.cs",
+              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Ports\\IAddressRepository.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Ports\\IAddressRepository.cs",
+              "RelativeToolTip": "src\\CaseSolution.Core\\Ports\\IAddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T23:19:35.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Ports\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Ports\\IPersonRepository.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Ports\\IPersonRepository.cs",
+              "RelativeToolTip": "src\\CaseSolution.Core\\Ports\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T02:14:20.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Entities\\PessoaJuridica.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\PessoaJuridica.cs",
+              "RelativeToolTip": "src\\CaseSolution.Core\\Entities\\PessoaJuridica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T02:00:17.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\Services\\PersonService.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Services\\PersonService.cs",
+              "RelativeToolTip": "src\\Case.Solution.Application\\Services\\PersonService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T02:10:21.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Entities\\Address.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\Address.cs",
+              "RelativeToolTip": "src\\CaseSolution.Core\\Entities\\Address.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T00:28:27.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Entities\\PessoaFisica.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\PessoaFisica.cs",
+              "RelativeToolTip": "src\\CaseSolution.Core\\Entities\\PessoaFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T01:55:49.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Case.Solution.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj",
-              "RelativeToolTip": "src\\Case.Solution.Infrastructure\\Case.Solution.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-17T02:20:38.105Z",
-              "EditorCaption": ""
+              "Title": "ViaCepService;.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Services\\ViaCepService;.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Infrastructure\\Services\\ViaCepService;.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Services\\ViaCepService;.cs",
+              "RelativeToolTip": "src\\Case.Solution.Infrastructure\\Services\\ViaCepService;.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T00:35:43.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 12,
+              "Title": "CreatePersonDto.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\CreatePersonDto.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\DTOs\\CreatePersonDto.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\CreatePersonDto.cs",
+              "RelativeToolTip": "src\\Case.Solution.Application\\DTOs\\CreatePersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T02:07:13.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IViaCep.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Interfaces\\IViaCep.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\Interfaces\\IViaCep.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Interfaces\\IViaCep.cs",
+              "RelativeToolTip": "src\\Case.Solution.Application\\Interfaces\\IViaCep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:49:37.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Api\\Case.Solution.API\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "src\\Case.Solution.Api\\Case.Solution.API\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:15:27.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\PersonDto.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\DTOs\\PersonDto.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\PersonDto.cs",
+              "RelativeToolTip": "src\\Case.Solution.Application\\DTOs\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T02:02:02.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateAddressDto.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\CreateAddressDto.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\DTOs\\CreateAddressDto.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\CreateAddressDto.cs",
+              "RelativeToolTip": "src\\Case.Solution.Application\\DTOs\\CreateAddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T01:52:51.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Entities\\Person.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\Person.cs",
+              "RelativeToolTip": "src\\CaseSolution.Core\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T01:54:21.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Infrastructure\\Repositories\\PersonRepository.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "src\\Case.Solution.Infrastructure\\Repositories\\PersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:26:46.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Case.Solution.Application.csproj",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Case.Solution.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\Case.Solution.Application.csproj",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Case.Solution.Application.csproj",
+              "RelativeToolTip": "src\\Case.Solution.Application\\Case.Solution.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T01:31:21.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Case.Solution.Api\\Case.Solution.API\\Program.cs",
+              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\Program.cs",
+              "RelativeToolTip": "src\\Case.Solution.Api\\Case.Solution.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:42:02.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Case.Solution.API.csproj",
               "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\Case.Solution.API.csproj",
               "RelativeDocumentMoniker": "src\\Case.Solution.Api\\Case.Solution.API\\Case.Solution.API.csproj",
@@ -283,96 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PersonDto.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\PersonDto.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\DTOs\\PersonDto.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\PersonDto.cs",
-              "RelativeToolTip": "src\\Case.Solution.Application\\DTOs\\PersonDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T02:02:02.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Case.Solution.Application.csproj",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Case.Solution.Application.csproj",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\Case.Solution.Application.csproj",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Case.Solution.Application.csproj",
-              "RelativeToolTip": "src\\Case.Solution.Application\\Case.Solution.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-17T01:31:21.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ViaCepService;.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Services\\ViaCepService;.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Infrastructure\\Services\\ViaCepService;.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Services\\ViaCepService;.cs",
-              "RelativeToolTip": "src\\Case.Solution.Infrastructure\\Services\\ViaCepService;.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T00:35:43.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PeopleController.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\Controllers\\PeopleController.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Api\\Case.Solution.API\\Controllers\\PeopleController.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\Controllers\\PeopleController.cs",
-              "RelativeToolTip": "src\\Case.Solution.Api\\Case.Solution.API\\Controllers\\PeopleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:15:27.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PessoaJuridica.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\PessoaJuridica.cs",
-              "RelativeDocumentMoniker": "src\\CaseSolution.Core\\Entities\\PessoaJuridica.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\CaseSolution.Core\\Entities\\PessoaJuridica.cs",
-              "RelativeToolTip": "src\\CaseSolution.Core\\Entities\\PessoaJuridica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T02:00:17.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreatePersonDto.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\CreatePersonDto.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Application\\DTOs\\CreatePersonDto.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\DTOs\\CreatePersonDto.cs",
-              "RelativeToolTip": "src\\Case.Solution.Application\\DTOs\\CreatePersonDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T02:07:13.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IViaCepService.cs",
-              "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Services\\Interface\\IViaCepService.cs",
-              "RelativeDocumentMoniker": "src\\Case.Solution.Infrastructure\\Services\\Interface\\IViaCepService.cs",
-              "ToolTip": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Infrastructure\\Services\\Interface\\IViaCepService.cs",
-              "RelativeToolTip": "src\\Case.Solution.Infrastructure\\Services\\Interface\\IViaCepService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T00:34:16.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Api\\Case.Solution.API\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Case.Solution.Api\\Case.Solution.API\\appsettings.json",

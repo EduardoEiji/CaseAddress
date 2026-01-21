@@ -1,3 +1,10 @@
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.csproj.AssemblyReference.cache
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.AssemblyInfoInputs.cache
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.AssemblyInfo.cs
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.csproj.CoreCompileInputs.cache
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.sourcelink.json
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\appsettings.Development.json
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\appsettings.json
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Case.Solution.API.staticwebassets.endpoints.json
@@ -36,6 +43,7 @@ C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debu
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -130,14 +138,6 @@ C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debu
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Case.Solution.Application.pdb
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\Case.Solution.Infrastructure.pdb
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\bin\Debug\net8.0\CaseSolution.Core.pdb
-C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.csproj.AssemblyReference.cache
-C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.AssemblyInfoInputs.cache
-C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.AssemblyInfo.cs
-C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.csproj.CoreCompileInputs.cache
-C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.MvcApplicationPartsAssemblyInfo.cs
-C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.MvcApplicationPartsAssemblyInfo.cache
-C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.sourcelink.json
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\scopedcss\bundle\Case.Solution.API.styles.css
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\staticwebassets.development.json
@@ -155,3 +155,4 @@ C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debu
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.pdb
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.genruntimeconfig.cache
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\ref\Case.Solution.API.dll
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Api\Case.Solution.API\obj\Debug\net8.0\Case.Solution.API.MvcApplicationPartsAssemblyInfo.cs

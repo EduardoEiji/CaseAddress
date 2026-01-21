@@ -13,7 +13,7 @@ namespace CaseSolution.Core.Entities
 				throw new ArgumentException("Nome não pode ser vazio.", nameof(name));
 			if (birthDate > DateTime.Today)
 				throw new ArgumentException("Data de nascimento inválida.", nameof(birthDate));
-			// Adicione validação de CPF aqui
+			
 			BirthDate = birthDate;
 		}
 
