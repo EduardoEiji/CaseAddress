@@ -5,6 +5,7 @@ C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolut
 C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.AssemblyInfoInputs.cache
 C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.AssemblyInfo.cs
 C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.csproj.CoreCompileInputs.cache
+C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.sourcelink.json
 C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.dll
 C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\refint\CaseSolution.Core.dll
 C:\MySpace\Case.Solution.GFTPan\src\CaseSolution.Core\obj\Debug\net8.0\CaseSolution.Core.pdb

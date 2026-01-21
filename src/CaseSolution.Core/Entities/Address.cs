@@ -1,8 +1,12 @@
-﻿namespace CaseSolution.Core.Entities
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace CaseSolution.Core.Entities
 {
     public class Address
     {
-		public Guid Id { get; set; }
+		[Key]
+		public Guid Id { get; private set; } = Guid.NewGuid();
 		public string Cep { get; set; } = string.Empty;
 		public string Logradouro { get; set; } = string.Empty;
 		public string? Complemento { get; set; }
@@ -16,6 +20,9 @@
 		public string? Gia { get; set; }
 		public string? Ddd { get; set; }
 		public string? Siafi { get; set; }
+		public Guid PeopleId { get; set; }
+		[ForeignKey("PeopleId")]
+		public Person? Person { get; set; }
 
 
 
