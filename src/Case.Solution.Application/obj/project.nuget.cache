@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ILB3XF9qOTE=",
+  "dgSpecHash": "i9EIr106+PE=",
   "success": true,
   "projectFilePath": "C:\\MySpace\\Case.Solution.GFTPan\\src\\Case.Solution.Application\\Case.Solution.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

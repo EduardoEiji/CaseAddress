@@ -133,62 +133,14 @@
   },
   "components": {
     "schemas": {
-      "AddressDto": {
+      "CreateAddressDto": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
           "cep": {
             "type": "string",
             "nullable": true
           },
-          "logradouro": {
-            "type": "string",
-            "nullable": true
-          },
           "complemento": {
-            "type": "string",
-            "nullable": true
-          },
-          "unidade": {
-            "type": "string",
-            "nullable": true
-          },
-          "bairro": {
-            "type": "string",
-            "nullable": true
-          },
-          "localidade": {
-            "type": "string",
-            "nullable": true
-          },
-          "uf": {
-            "type": "string",
-            "nullable": true
-          },
-          "estado": {
-            "type": "string",
-            "nullable": true
-          },
-          "regiao": {
-            "type": "string",
-            "nullable": true
-          },
-          "ibge": {
-            "type": "string",
-            "nullable": true
-          },
-          "gia": {
-            "type": "string",
-            "nullable": true
-          },
-          "ddd": {
-            "type": "string",
-            "nullable": true
-          },
-          "siafi": {
             "type": "string",
             "nullable": true
           }
@@ -216,7 +168,7 @@
             "nullable": true
           },
           "address": {
-            "$ref": "#/components/schemas/AddressDto"
+            "$ref": "#/components/schemas/CreateAddressDto"
           }
         },
         "additionalProperties": false

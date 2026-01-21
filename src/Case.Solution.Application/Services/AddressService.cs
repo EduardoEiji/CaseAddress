@@ -30,7 +30,7 @@ namespace Case.Solution.Application.Services
 		{
 			ValidateCreateDto(dto);
 			Address address = new Address(dto.Cep , dto.Logradouro,dto.Complemento, dto.Unidade, dto.Bairro, dto.Localidade, dto.Uf, dto.Estado, dto.Regiao, dto.Ibge, dto.Gia, dto.Ddd, dto.Siafi);
-			var created = await _repo.CreateAsync(address);
+		    var created = await _repo.CreateAsync(address);
 			return ToDto(created);
 		}
 
@@ -42,8 +42,7 @@ namespace Case.Solution.Application.Services
 
 			existing.UpdateCep(dto.Cep);
 			existing.UpdateLogradouro(dto.Logradouro);
-			// specific fields not updated here for brevity
-
+		
 			var updated = await _repo.UpdateAsync(existing);
 			return updated == null ? null : ToDto(updated);
 		}
@@ -52,17 +51,12 @@ namespace Case.Solution.Application.Services
 
 		private void ValidateCreateDto(CreateAddressDto dto)
 		{
-			if (string.IsNullOrWhiteSpace(dto.Logradouro)) throw new ArgumentException("Name required");
-			if (string.IsNullOrWhiteSpace(dto.Cep)) throw new ArgumentException("Document required");
-
+			if (string.IsNullOrWhiteSpace(dto.Logradouro)) throw new ArgumentException("Logradouro Obrigatorio");
+			if (string.IsNullOrWhiteSpace(dto.Cep)) throw new ArgumentException("CEP Obrigatorio");
 		}
-
-
-
 
 		private AddressDto ToDto(Address a) => new AddressDto
 		{
-
 			Cep = a.Cep,
 			Logradouro = a.Logradouro,
 			Complemento = a.Complemento,
@@ -76,12 +70,7 @@ namespace Case.Solution.Application.Services
 			Gia = a.Gia,
 			Ddd = a.Ddd,
 			Siafi = a.Siafi
-
 		};
-
-
-
-
-
+;
 	}
 }

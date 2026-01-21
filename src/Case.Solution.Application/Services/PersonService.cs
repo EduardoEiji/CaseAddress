@@ -7,7 +7,7 @@ namespace Case.Solution.Application.Services
     public class PersonService
     {
 		private readonly IPersonRepository _repo;
-
+		
 		public PersonService(IPersonRepository repo)
 		{
 			_repo = repo;
@@ -30,7 +30,8 @@ namespace Case.Solution.Application.Services
 			ValidateCreateDto(dto);
 
 
-			var address = new Address(dto.Address.Cep , dto.Address.Logradouro , dto.Address.Complemento ,dto.Address.Unidade , dto.Address.Bairro , dto.Address.Localidade , dto.Address.Uf , dto.Address.Estado , dto.Address.Regiao , dto.Address.Ibge , dto.Address.Gia , dto.Address.Ddd , dto.Address.Siafi);
+		
+			var address = new Address(dto.Address.Cep,dto.Address.Logradouro, dto.Address.Complemento ,dto.Address.Unidade , dto.Address.Bairro , dto.Address.Localidade , dto.Address.Uf , dto.Address.Estado , dto.Address.Regiao , dto.Address.Ibge , dto.Address.Gia , dto.Address.Ddd , dto.Address.Siafi);
 
 			Person person = dto.Type switch
 			{
@@ -49,8 +50,7 @@ namespace Case.Solution.Application.Services
 
 			existing.UpdateName(dto.Name);
 			existing.UpdateDocument(dto.Document);
-			// specific fields not updated here for brevity
-
+			
 			var updated = await _repo.UpdateAsync(existing);
 			return updated == null ? null : ToDto(updated);
 		}
@@ -62,13 +62,12 @@ namespace Case.Solution.Application.Services
 			if (string.IsNullOrWhiteSpace(dto.Name)) throw new ArgumentException("Name required");
 			if (string.IsNullOrWhiteSpace(dto.Document)) throw new ArgumentException("Document required");
 
-			if (dto.Type == "Individual")
+			if (dto.Type == "Fisica")
 			{
-				// simple CPF length check; replace with robust validator if required
 				var digits = new string(dto.Document.Where(char.IsDigit).ToArray());
 				if (digits.Length != 11) throw new ArgumentException("CPF must have 11 digits");
 			}
-			else if (dto.Type == "Company")
+			else if (dto.Type == "Juridica")
 			{
 				var digits = new string(dto.Document.Where(char.IsDigit).ToArray());
 				if (digits.Length != 14) throw new ArgumentException("CNPJ must have 14 digits");

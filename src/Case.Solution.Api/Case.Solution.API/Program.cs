@@ -1,12 +1,12 @@
 using Case.Solution.Application.Services;
 using Case.Solution.Infrastructure.Data;
 using Case.Solution.Infrastructure.Repositories;
-using Case.Solution.Infrastructure.Services.Interface;
 using Case.Solution.Infrastructure.Services;
 using CaseSolution.Core.Ports;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
+using Case.Solution.Application.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,21 +18,22 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddTransient<ViaCepService>();
+builder.Services.AddHttpClient<IViaCep, ViaCepService>();
 
 builder.Services.AddDbContext<PersonDbContext>(options =>
 	options.UseSqlServer(connectionString));
 
 
-builder.Services.AddTransient<IPersonRepository, PersonRepository>();
-builder.Services.AddTransient<PersonService>();
-builder.Services.AddTransient<IDbConnection>(sp =>
+builder.Services.AddScoped<IPersonRepository, PersonRepository>();
+builder.Services.AddScoped<PersonService>();
+builder.Services.AddScoped<IDbConnection>(sp =>
 {
 	var conn = new SqlConnection(connectionString);
 	conn.Open();
 	return conn;
 });
-builder.Services.AddHttpClient<IViaCepService, ViaCepService>();
+
 
 var app = builder.Build();
 

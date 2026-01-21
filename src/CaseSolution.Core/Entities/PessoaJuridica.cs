@@ -8,7 +8,7 @@
 			: base(tradingName, cnpj, PersonType.Juridica,address)
 		{
 			if (string.IsNullOrWhiteSpace(tradingName))
-				throw new ArgumentException("Nome da empresa não pode ser vazio.", nameof(tradingName));
+				throw new ArgumentException("Nome da pessoa juridica não pode ser vazio.", nameof(tradingName));
 			CompanyName = tradingName;
 		}
 

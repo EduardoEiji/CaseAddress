@@ -6,7 +6,6 @@ namespace CaseSolution.Core.Entities
 	public abstract class Person
     {
 
-		//usar private ou protected ???
 		[Key]
 		public Guid Id { get; private set; } = Guid.NewGuid();
 		public string Name { get; private set; } = string.Empty;

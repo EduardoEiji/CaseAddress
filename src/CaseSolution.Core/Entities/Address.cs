@@ -35,8 +35,8 @@ namespace CaseSolution.Core.Entities
 			Bairro = bairro;
 			Localidade = localidade;
 			Uf = uf;
-			Estado = Estado;
-			Regiao = Regiao;
+			Estado = estado;
+			Regiao = regiao;
 			Ibge = ibge;
 			Gia = gia;
 			Ddd = ddd;
