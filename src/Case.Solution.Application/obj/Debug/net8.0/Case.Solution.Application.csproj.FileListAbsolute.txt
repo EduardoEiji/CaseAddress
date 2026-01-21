@@ -8,6 +8,7 @@ C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Application\obj\Debug\net8.0\C
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Application\obj\Debug\net8.0\Case.Solution.Application.AssemblyInfoInputs.cache
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Application\obj\Debug\net8.0\Case.Solution.Application.AssemblyInfo.cs
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Application\obj\Debug\net8.0\Case.Solution.Application.csproj.CoreCompileInputs.cache
+C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Application\obj\Debug\net8.0\Case.Solution.Application.sourcelink.json
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Application\obj\Debug\net8.0\Case.Sol.ECD8C499.Up2Date
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Application\obj\Debug\net8.0\Case.Solution.Application.dll
 C:\MySpace\Case.Solution.GFTPan\src\Case.Solution.Application\obj\Debug\net8.0\refint\Case.Solution.Application.dll

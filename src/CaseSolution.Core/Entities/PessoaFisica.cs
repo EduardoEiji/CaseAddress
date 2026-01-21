@@ -7,7 +7,7 @@ namespace CaseSolution.Core.Entities
 		public DateTime BirthDate { get; private set; }
 
 		public PessoaFisica(string name, string cpf, DateTime birthDate,Address address)
-			: base(name, cpf, PersonType.Individual ,address)
+			: base(name, cpf, PersonType.Fisica ,address)
 		{
 			if (string.IsNullOrWhiteSpace(name))
 				throw new ArgumentException("Nome não pode ser vazio.", nameof(name));
@@ -17,6 +17,8 @@ namespace CaseSolution.Core.Entities
 			BirthDate = birthDate;
 		}
 
+		public PessoaFisica()
+		{ }
 	}
 }
 

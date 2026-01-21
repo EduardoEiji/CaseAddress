@@ -34,7 +34,7 @@ namespace Case.Solution.Application.Services
 
 			Person person = dto.Type switch
 			{
-				"Company" => new PessoaJuridica(dto.Name, dto.Document,address),
+				"1" => new PessoaJuridica(dto.Name, dto.Document,address),
 				_ => new PessoaFisica(dto.Name, dto.Document, dto.BirthDate ?? DateTime.MinValue,address)
 			};
 
@@ -80,7 +80,7 @@ namespace Case.Solution.Application.Services
 			Id = p.Id,
 			Name = p.Name,
 			Document = p.Document,
-			Type = p.Type == PersonType.Company ? "Company" : "Individual",
+			Type = p.PType == PersonType.Juridica ? "Juridica" : "Fisica",
 			BirthDate = (p is PessoaFisica pf) ? pf.BirthDate : null
 		};
 	}

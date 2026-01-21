@@ -1,13 +1,18 @@
-﻿namespace CaseSolution.Core.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace CaseSolution.Core.Entities
 {
-	public enum PersonType { Individual = 0, Company = 1 }
+	public enum PersonType { Fisica = 0, Juridica = 1 }
 	public abstract class Person
     {
-		public Guid Id { get; protected set; } = Guid.NewGuid();
-		public string Name { get; protected set; } = string.Empty;
-		public string Document { get; protected set; } = string.Empty; // CPF or CNPJ
-		public PersonType Type { get; protected set; }
-		public Address Address { get; protected set; }
+
+		//usar private ou protected ???
+		[Key]
+		public Guid Id { get; private set; } = Guid.NewGuid();
+		public string Name { get; private set; } = string.Empty;
+		public string Document { get; private set; } = string.Empty; // CPF or CNPJ
+		public PersonType PType { get; private set; }
+     	public Address Address { get; private set; }
 
 
 		protected Person() { }
@@ -16,7 +21,7 @@
 		{
 			Name = name;
 			Document = document;
-			Type = type;
+			PType = type;
 			Address = address;
 		}
 
